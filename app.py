@@ -86,4 +86,4 @@ if uploaded_file is not None:
     st.image(img_draw, caption="Deteksi teks pada gambar", use_column_width=True)
 
 st.markdown("---")
-st.write("Dibuat dengan ❤️ menggunakan Streamlit + EasyOCR")
+st.write("Tugas Pemrograman Visual II")
